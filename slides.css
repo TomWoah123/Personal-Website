@@ -1,0 +1,4 @@
+.mySlides {
+    filter: brightness(70%);
+    filter: grayscale(30%);
+}
